@@ -1,4 +1,4 @@
-# Driver for MCP7940N for linux-2.6.32.59 kernel.  
+# Driver for Microchip MCP7940N RTC clock chip for linux-2.6.32.59 kernel.  
 
 Microchip MCP7940N adaptation for linux kernel v2.6.32.59
 
